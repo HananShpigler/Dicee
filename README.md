@@ -1,7 +1,10 @@
 # Dicee Game
-Simple Dice web game
+Simple Dice web game.
+
+## Instructions
+Press Refresh to throw the dice again.
 
 ## Getting Started
-Click on the link below 👇 ,Press Refresh to throw the dice again, enjoy !
+Click on the link below 👇, enjoy !
 
 🎲 https://hananshpigler.github.io/Dicee/ 🎲
