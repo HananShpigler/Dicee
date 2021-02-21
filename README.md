@@ -1,6 +1,7 @@
 # Dicee Game
-This time i am using HTML5,CSS3 and JavaScript to make a simple game.
+Simple Dice web game
 
-Enjoy playing the game :)
+## Getting Started
+Click on the link below 👇 ,Press Refresh to throw the dice again, enjoy !
 
-https://hananshpigler.github.io/Dicee/
+🎲 https://hananshpigler.github.io/Dicee/ 🎲
